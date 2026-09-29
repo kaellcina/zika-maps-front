@@ -24,3 +24,10 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+# Testes
+coverage/
+playwright-report/
+test-results/
+
+# Vercel
+.vercel/
